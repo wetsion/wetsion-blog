@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://wetsion.gitee.io
+url: https://www.wetsion.site
 root: /
 # permalink: :year/:month/:day/:title/
 permalink: :title.html
@@ -29,6 +29,7 @@ code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
   - 'baidu_verify_OSsSHsYWdX.html'
+  - 'baidu_verify_BKiDA8ihTY.html'
   - 'google0b0f9d99412e5142.html'
 
 # Writing
@@ -89,7 +90,7 @@ search:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://gitee.com/wetsion/Wetsion.git
+  repo: https://github.com/wetsion/wetsion.github.io.git
   branch: master
 
 # sitemap
