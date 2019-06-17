@@ -33,7 +33,7 @@ skip_render:
   - 'google0b0f9d99412e5142.html'
 
 # Writing
-new_post_name: year-:month-:day-:title.md # File name of new posts
+new_post_name: :year-:month-:day-:title.md # File name of new posts
 default_layout: post
 titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
@@ -67,7 +67,7 @@ tag_map:
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
 date_format: YYYY-MM-DD
-time_format: HH:mm:ss
+time_format: H:mm:ss
 
 # Pagination
 ## Set per_page to 0 to disable pagination
