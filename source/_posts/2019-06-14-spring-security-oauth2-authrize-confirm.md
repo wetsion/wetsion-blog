@@ -3,7 +3,6 @@ title: Spring Security Oauth2：自定义手动授权页
 description: 使用自定义的授权页覆盖默认的授权页
 categories:
  - 后端
- - Java
  - Spring
 tags:
  - Java

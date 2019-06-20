@@ -2,7 +2,6 @@
 title: Vue router history模式在SpringBoot应用中的配置
 description: vue router在使用history模式时，在springboot应用又该怎么配置呢？
 categories:
- - 前端
  - 后端
  - Spring
 tags:
